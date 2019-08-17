@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LDDM_IMC_APP</string>
+    <string name="peso">Digite seu Peso (Kg)</string>
+    <string name="altura">Digite sua Altura (cm)</string>
+    <string name="classificacao">Classificacao</string>
+</resources>
